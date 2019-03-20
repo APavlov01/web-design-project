@@ -116,3 +116,11 @@ h3{
   padding-bottom: 35px;
   transition: all 250ms;
 }
+table{
+  border-color:white;
+}
+tr{
+  color:white;
+  outline-color: white;
+  border-color: white;
+}
