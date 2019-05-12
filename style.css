@@ -130,14 +130,14 @@ h2{
 	transition: all 800ms ease-in-out;
 	opacity: 1;
 	content: url(images/nikelogobl.png);
-	animation: pop 2s ease-in infinite;
+	animation: pulse 2s ease-in infinite;
 }
 
 #underlogo:hover{
 	transition: all 800ms ease-in-out;
 	opacity: 1;
 	content: url(images/underlogobl.png);
-	animation: pop 2s ease-in infinite;
+	animation: pulse 2s ease-in infinite;
 }
 
 table{
